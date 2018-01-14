@@ -11,8 +11,6 @@ public class fortictactoe7 {
         Scanner s = new Scanner(System.in);
         String coordinate = "";
 
-        ;;
-
         while(true) {
             System.out.print("좌표를 입력해 주세요: ");
 
